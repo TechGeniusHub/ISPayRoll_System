@@ -1,4 +1,5 @@
-# ISPayRoll_System (For Code Contact: ishawagh0328@gmail.com)
+# ISPayRoll_System Collaboration Project By Sushmita and Isha 
+# (For Code Contact: ishawagh0328@gmail.com/sushmita.shetty0319@gmail.com)
 
 ![image](https://github.com/user-attachments/assets/d281fe62-6bc2-43bc-9886-ce77e9dcec48)
 ![image](https://github.com/user-attachments/assets/0df3ff68-fee5-43e0-ada7-6b5c70b797e9)
