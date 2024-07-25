@@ -14,6 +14,15 @@ Attendance Manager
 ![image](https://github.com/user-attachments/assets/1b72ef2f-d145-488b-af99-bfb5089fc6c0)
 ![image](https://github.com/user-attachments/assets/2297b208-cd29-4eeb-9cc9-e8aa19498e35)
 ![image](https://github.com/user-attachments/assets/83f4cc55-c642-476f-8a27-cdc917ebc906)
+Salary Calculation part: 
+![image](https://github.com/user-attachments/assets/4ae52352-cd91-4846-a8bc-9b9492b6ce6b)
+Can Download the report in pdf format 
+Dynamic PF formula 
+![image](https://github.com/user-attachments/assets/d8015eb1-534c-409c-8ef8-a9ad92e0197e)
+other Remaining WebPages 
+![image](https://github.com/user-attachments/assets/c0049d79-1da9-400f-befd-4e2f554a5308)
+![image](https://github.com/user-attachments/assets/6dbe0d93-aaaf-439f-b5b5-f5c61c5ecb4e)
+
 
 
 
