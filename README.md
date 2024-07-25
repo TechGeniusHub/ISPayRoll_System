@@ -4,4 +4,6 @@
 ![image](https://github.com/user-attachments/assets/0df3ff68-fee5-43e0-ada7-6b5c70b797e9)
 Company 
 ![image](https://github.com/user-attachments/assets/2605016a-da3e-44d0-89f8-d2ef45787e59)
+Add New Company
+![image](https://github.com/user-attachments/assets/62a9d942-7c47-402a-b263-7b3254f3d234)
 
